@@ -71,3 +71,7 @@ dt2 <= do0 when rd2(2 downto 0)="000" else
     do3 when rd2(2 downto 0)="011" else
     do4 when rd2(2 downto 0)="100";
 end Behavioral;
+        
+        
+        
+        
